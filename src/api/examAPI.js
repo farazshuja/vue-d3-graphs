@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // Root of the the API
 // const API_URL = 'https://aime.textpert.ai/exam'
-const API_URL = '/src/data'
+const API_URL = 'src/data'
 
 const examAPI = {
   getFullReport (id = 'fake-exam-id') {
