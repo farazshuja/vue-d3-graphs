@@ -61,7 +61,7 @@ export default {
   },
   computed: {
     videoSrc () {
-      return '/src/data/video.mp4'
+      return 'src/data/video.mp4'
     }
   },
   components: {
