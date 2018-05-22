@@ -1,0 +1,7 @@
+dist/
+.vscode/
+.idea/
+test/
+.gitignore
+README.md
+node_modules/

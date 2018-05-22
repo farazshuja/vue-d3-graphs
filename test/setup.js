@@ -1,0 +1,1 @@
+global.API_BASE_URL = 'http://foobar/'
